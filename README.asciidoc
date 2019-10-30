@@ -1,12 +1,45 @@
-= Hola como estas
+= Guida breve a git
+
+*git config --global user.name "nome"*
+
+_insetisce il nome utente_
+
+*git config --global user.email email*
+
+_inserisce l'email_
+
+*git config --global https.proxy http://10.1.1.254.3128*
+*git config --global http.proxy http://10.1.1.254.3128*
 
 
+*git clone*
 
+_clona_
 
-Mannaggia al porcino
+*git status*
 
+_serve per vedere lo status del programma_
 
-= Maremma bucaiola
+*git add*
 
+_aggiunge un file a Git Bush_
 
-Mamma Mia 
+*git commit*
+
+_serve per fare dei piccoli salvataggi_
+
+*git push*
+
+_invia il file al sito GitHub.com dove abbiamo inserito l'email_
+
+*git fetch*
+
+_scarica il file ma non lo aggiunge subito_
+
+*git pull*
+
+_Insetisce subito il file scaricato_
+
+*git diff*
+
+_fa la differenza tra più file per vedere delle cose aggiunte e cose tolte_
